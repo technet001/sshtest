@@ -1,2 +1,4 @@
 we are adding the data in staging area with git add . command
 and we commit this data to local reposity
+we are adding the data for staging area to see the diff.
+we are add the data for working directory to see the diffrance.
